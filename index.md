@@ -8,7 +8,7 @@ Jekyll repository for the "Sociology 460 Library Session" at the University of I
 <link to repository>
 
 This library session will teach you how to:
-- search in sociology journals and library databases for peer-reviewed sources
+- find and utilize discipline-specific, peer-reviewed sources related to your research topic
 - create and modify your search strategies
 - use citation chaining backwards and forwards through a research topic
 
