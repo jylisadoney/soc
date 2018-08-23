@@ -7,16 +7,18 @@ Databases can be helpful places to search as they include peer-reviewed articles
 
 ## Select a library database
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
-* Click on `Articles & Databases` below the search box
+* Click on `Databases` below the search box
+* Click on `View More Results`
 * On the new page:
-  * **Option 1**: Click on `View our Databases A-Z list`
-  * **Option 2**: Click on a `Databases by Subject link`
+  * **Option 1**: Scroll to, or select the first letter of, the database you are interested in
+  * **Option 2**: Click on the `All Subjects` box and select a subject/discipline
     * Example: Sociology/Criminology
-* On the new page, click on the database you are interested in
+* Then, click on the database you are interested in
   * Example: Sociological Abstracts
 * Enter your `Vandal NetID` if prompted 
 
 ## Search in a library database
+* Select a database you are interested in
 * Type your keywords into the search box
   * Example: vaccines AND opinions AND trust
     * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
@@ -37,8 +39,10 @@ On the results page, you can limit your results by:
   * Subject headings are the terms databases use to describe specific concepts
 	* Include them in your search to get more specific results
 
-## Access the full-text
+## Access the full-text: Part I
 * Read the article online or download the PDF
+
+## Access the full-text: Part II
 * Click the `Find It` icon to check for full-text
 * Under `View It`, click the link that provides access to the article
   * If there are no links under `View It`, request the article for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan</a>
