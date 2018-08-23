@@ -3,7 +3,7 @@ title: Home
 ---
 # Sociology Library Sessions
 
-Jekyll repository for the "Sociology Library Sessions" at the University of Idaho Library.
+Jekyll repository for "Sociology Library Sessions" at the University of Idaho Library.
 
 <link to repository>
 
