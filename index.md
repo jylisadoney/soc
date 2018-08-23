@@ -1,18 +1,18 @@
 ---
 title: Home
 ---
-# Sociology 460 Library Session
+# Sociology Library Sessions
 
-Jekyll repository for the "Sociology 460 Library Session" at the University of Idaho Library.
+Jekyll repository for the "Sociology Library Sessions" at the University of Idaho Library.
 
 <link to repository>
 
-This library session will teach you how to:
+This website will teach you how to:
 - find and utilize discipline-specific, peer-reviewed sources related to your research topic
 - create and modify your search strategies
 - use citation chaining backwards and forwards through a research topic
 
-<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about this session or content?** 
+<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about this website or its content?** 
 
 <div class="toc" markdown="1">
 ## Contents:
