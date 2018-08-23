@@ -10,14 +10,15 @@ When doing research, it can often be helpful to start your search within specifi
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Journals` below the search box
 * On the new page, type the `journal name` into the search box
-  * Example: Public Understanding of Science
+  * Example: Sociology Compass
 * Click on go or hit enter on your keyboard
 * On the new page, click the journal title that provides `Online Access`
 * Under `View It`, click the link that provides the access you need (current/historic articles)
 * Enter your `Vandal NetID` if prompted 
 
 ## Search in a journal
-* Type your `keywords` into the search box
+* Complete the 'Find a journal' steps
+* On the new page, type your `keywords` into the search box
   * Example: vaccines AND opinions AND trust
     * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
 * If prompted, select the option to search in `This Journal` only
