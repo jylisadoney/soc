@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Sociology 460 Library Session"
+title: "Sociology Library Sessions"
 # description and keywords for meta tags
 description: "Learn how to find and utilize discipline-specific, peer-reviewed sources related to your research topic."
 keywords: "library instruction, search strategies, citation chaining"
@@ -27,7 +27,7 @@ repo: "https://github.com/jylisadoney/soc-460"
 url: https://jylisadoney.github.io
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /soc-460
+baseurl: /soc
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
