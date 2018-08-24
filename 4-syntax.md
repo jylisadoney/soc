@@ -2,7 +2,7 @@
 title: Syntax
 nav: true
 ---
-# [Research Question to Basic Concepts](#researchquestion-basicconcepts)
+# [Research Question to Basic Concepts](#basic-concepts)
 
 Before searching for information related to our research question, you first need to identify your topic's `basic concepts` and their `synonyms or other keywords`.
 
