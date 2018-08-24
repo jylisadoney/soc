@@ -45,12 +45,12 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 Operator | Description | Example 
 ---------| ----------- | -------
-AND | Each result contains all search terms | income AND hunger <br><br> Google Scholar: income hunger
+AND | Each result contains all search terms | income AND hunger<br><br>Google Scholar: income hunger
 "Quotation marks" | Results contain exact phrases | "food insecurity"
 OR | Each result contains at least one search term | "food insecurity" OR "food security"
 (Parentheses) | Groups and combines terms | ("food insecurity" OR "food security") AND income
 NOT | Results do not contain the specified terms | "food insecurity" NOT seniors
-Asterisk (*) | Enter the root of a search term and replace the ending with an (*) | famil* -- Finds: family, families, etc.
+Asterisk (*) | Enter the root of a search term and replace the ending with an (*) | famil*<br><br>Finds: family, families, etc.
 
 <br>
 Combine search syntax operators:
