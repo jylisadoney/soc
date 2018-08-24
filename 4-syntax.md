@@ -2,7 +2,7 @@
 title: Syntax
 nav: true
 ---
-# Research Question to Basic Concepts
+# [Research Question to Basic Concepts](#researchquestion-basicconcepts)
 
 Before searching for information related to our research question, you first need to identify your topic's `basic concepts` and their `synonyms or other keywords`.
 
@@ -20,13 +20,13 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </style>
 
 Step 1: Identify the basic concepts | Step 2: List synonyms or other keywords 
----------| ----------- | -------
+---------| -----------
 factors | income, education, socioeconomic status, health care costs, child care costs, age
 families | parents with children, households
 food insecurity | food security, hunger, starvation
 Latah County | Idaho, United States, rural
 
-# Search Syntax
+# [Search Syntax](#search-syntax)
 
 Once you identify your topic's basic concepts and synonyms, you can **start searching** in a journal or library database.
 
