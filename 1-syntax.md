@@ -45,14 +45,14 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 Operator | Description | Example 
 ---------| ----------- | -------
-AND | Each result contains all search terms | public AND vaccines
-OR | Each result contains at least one search term | vaccines OR immunizations
-(Parentheses) | Groups and combines terms | (vaccines OR immunizations) AND media
-NOT | Results do not contain the specified terms | vaccines NOT autism
-"Quotation marks" | Results contain exact phrases | "public perception"
-Asterisk (*) | Enter the root of a search term and replace the ending with an (*) | vaccin* -- Finds: vaccine, vaccines, vaccination, etc.
+AND | Each result contains all search terms | income AND hunger <br><br> Google Scholar: income hunger
+"Quotation marks" | Results contain exact phrases | "food insecurity"
+OR | Each result contains at least one search term | "food insecurity" OR "food security"
+(Parentheses) | Groups and combines terms | ("food insecurity" OR "food security") AND income
+NOT | Results do not contain the specified terms | "food insecurity" NOT seniors
+Asterisk (*) | Enter the root of a search term and replace the ending with an (*) | famil* -- Finds: family, families, etc.
 
 <br>
 Combine search syntax operators:
 <br>
-`(vaccin* OR immuniz*) AND (opinion* OR perception*) AND media`
+`("food insecurity" OR "food security") AND famil* AND (income OR education)`
