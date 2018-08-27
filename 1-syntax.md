@@ -26,6 +26,7 @@ families | parents with children, households
 food insecurity | food security, hunger, starvation
 Latah County | Idaho, United States, rural
 
+<br>
 # [Search Syntax](#search-syntax)
 
 Once you identify your topic's basic concepts and synonyms, you can **start searching** in a journal or library database.
