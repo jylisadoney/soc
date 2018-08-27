@@ -6,7 +6,23 @@ nav: true
 
 When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline.
 
-## Find a journal
+## Find disciplinary journals 
+* Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
+* Click on `Databases` below the search box
+* In the drop-down box, scroll to and select `InCites Journal Citation Reports`
+* Click on go
+* On the new page, click on `Browse by Category`
+* On the new page, click on `Journals by Rank`
+* Click on `Select Categories`
+* Scroll down to and check the box for a specific discipline
+  * Example: Sociology
+* Scroll down and click on `Submit` at the bottom of the page
+
+You can now see a ranked list of journals within a specific discipline. Journals in this list are ranked based on the number of times their articles are cited by other articles.
+
+## Find a journal in the library catalog
+Once we find a list of disciplinary journals, we need to see if the University of Idaho Library has full-text access to articles.
+
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Journals` below the search box
 * On the new page, type the `journal name` into the search box
