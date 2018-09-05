@@ -2,7 +2,7 @@
 title: Journals
 nav: true
 ---
-# Part One: Search in Specific Journals
+# Search in Specific Journals
 
 When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline. The following step-by-step instructions will help you [identify](#identify-disciplinary-journals), [find](#find-a-journal-in-the-library-catalog), and [search within a disciplinary journal](#search-within-a-disciplinary-journal).
 
