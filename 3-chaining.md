@@ -2,7 +2,7 @@
 title: Chaining
 nav: true
 ---
-# Part Three: Citation Chaining
+# Citation Chaining
 
 `Citation chaining` is a powerful search strategy that allows you to move backwards and forwards through a research topic.
 
