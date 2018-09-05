@@ -2,7 +2,7 @@
 title: Databases
 nav: true
 ---
-# Part Two: Search Library Databases
+# Search Library Databases
 Databases can be helpful places to search as they include peer-reviewed articles from multiple journals.
 
 ## Select a library database
