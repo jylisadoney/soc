@@ -2,11 +2,11 @@
 title: Journals
 nav: true
 ---
-# Identify and Search in Specific Journals
+# Identify and Search Within Specific Journals
 
 When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline. 
 
-The following step-by-step instructions will help you [identify](#identify-disciplinary-journals), [find](#find-a-journal-in-the-library-catalog), and [search](#search-within-a-disciplinary-journal) within a disciplinary journal. You can even learn how to [confirm](#confirm-if-a-journal-is-peer-reviewed) if a journal is peer-reviewed.
+The following step-by-step instructions will help you [identify](#identify-disciplinary-journals), [find](#find-a-journal-in-the-library-catalog), and [search](#search-within-a-specific-journal) within a specific journal. You can even learn how to [confirm](#confirm-if-a-journal-is-peer-reviewed) if a journal is peer-reviewed.
 
 ## Identify disciplinary journals
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
@@ -34,7 +34,7 @@ Once we find a list of disciplinary journals and identify one you are interested
 * Under `View It`, click the link that provides the access you need (current/historic articles)
 * Enter your `Vandal NetID` if prompted 
 
-## Search within a disciplinary journal
+## Search within a specific journal
 * Complete the 'Find a journal' steps
 * On the new page, type your `keywords` into the search box
   * Example: vaccines AND opinions AND trust
