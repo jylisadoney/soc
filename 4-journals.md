@@ -56,5 +56,3 @@ Once you select a journal, you can use a library database to confirm that it is 
 * Click on the magnifying glass
 * On the new page, identify the correct journal
 * If the journal has a 'referee jersey' next to its name, it is a peer-reviewed journal
-* Click on `Select Categories`
-* Scroll down to and check the box for a specific discipline
