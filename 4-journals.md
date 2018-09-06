@@ -2,7 +2,7 @@
 title: Journals
 nav: true
 ---
-# Search in Specific Journals
+# Identify and Search in Specific Journals
 
 When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline. 
 
