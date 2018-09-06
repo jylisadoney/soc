@@ -4,7 +4,7 @@ nav: true
 ---
 # Search in Specific Journals
 
-When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline. The following step-by-step instructions will help you [identify](#identify-disciplinary-journals), [find](#find-a-journal-in-the-library-catalog), and [search](#search-within-a-disciplinary-journal) within a disciplinary journal]. You can even learn how to [confirm](#confirm-if-a-journal-is-peer-reviewed)
+When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline. The following step-by-step instructions will help you [identify](#identify-disciplinary-journals), [find](#find-a-journal-in-the-library-catalog), and [search](#search-within-a-disciplinary-journal) within a disciplinary journal]. You can even learn how to [confirm](#confirm-if-a-journal-is-peer-reviewed) if a journal is peer-reviewed.
 
 ## Identify disciplinary journals
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
@@ -45,7 +45,7 @@ Once we find a list of disciplinary journals and identify one you are interested
 
 If we don't have the full-text of an article you need, request it for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan</a>.
 
-## Confirm if a Journal is Peer-Reviewed
+## Confirm if a journal is peer-reviewed
 Once you select a journal, you can use a library database to confirm that it is peer-reviewed.
 
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
