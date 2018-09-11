@@ -11,7 +11,7 @@ The following step-by-step instructions will help you [identify](#identify-disci
 ## Identify disciplinary journals
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Databases` below the search box
-* In the drop-down box, scroll to and select `InCites Journal Citation Reports`
+* In the drop-down box, scroll to and select `Journal Citation Reports`
 * Click on go
 * On the new page, click on `Browse by Category`
 * On the new page, click on `Journals by Rank`
