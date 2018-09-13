@@ -57,4 +57,4 @@ Once you select a journal, you can use a library database to confirm that it is 
   * Example: Sociology Compass
 * Click on the magnifying glass
 * On the new page, identify the correct journal
-* If the journal has a 'referee jersey' next to its name, it is a peer-reviewed journal
+* If the journal has a 'referee jersey' icon next to its name, it is a peer-reviewed journal
