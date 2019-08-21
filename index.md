@@ -1,9 +1,9 @@
 ---
 title: Home
 ---
-# Sociology Library Workshops
+# Sociology library workshops
 
-Jekyll repository for "Sociology Library Workshops" at the University of Idaho Library.
+Jekyll repository for "Sociology library workshops" at the University of Idaho Library.
 
 <link to repository>
 
