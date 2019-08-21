@@ -17,7 +17,6 @@ Databases can be helpful places to search as they include peer-reviewed articles
 * Enter your `Vandal NetID` if prompted 
 
 ## Search in a library database
-* Select a database you are interested in
 * Type your keywords into the search box
   * Example: vaccines AND opinions AND trust
     * Visit the <a href="https://jylisadoney.github.io/soc/1-syntax.html#search-syntax" target="_blank">Search Syntax page</a> to learn more about `AND`
@@ -36,12 +35,12 @@ On the results page, you can limit your results by:
 * Read the `Abstract/Details`
 * Make note of useful `subject headings`
   * Subject headings are the terms databases use to describe specific concepts
-	* Include them in your search to get more specific results
+	  * Include them in your search to get more specific results
 
-## Access the full-text: Part I
+## Access the full-text
 * Read the article online or download the PDF
 
-## Access the full-text: Part II
+If necessary:
 * Click the `Find It` icon to check for full-text
 * Under `View It`, click the link that provides access to the article
   * If there are no links under `View It`, request the article for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan</a>
