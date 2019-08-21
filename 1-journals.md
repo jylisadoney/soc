@@ -5,7 +5,7 @@ nav: true
 # Identify and search within specific journals
 
 When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline. 
-<!-->
+<!--
 The following step-by-step instructions will help you [identify](#identify-disciplinary-journals), [find](#find-a-journal-in-the-library-catalog), and [search](#search-within-a-specific-journal) within a specific journal. You can even learn how to [confirm](#confirm-if-a-journal-is-peer-reviewed) if a journal is peer-reviewed.-->
 
 ## Identify disciplinary journals
