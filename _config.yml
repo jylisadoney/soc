@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Sociology library workshops"
+title: "Sociology library sessions"
 # description and keywords for meta tags
 description: "Learn how to find and utilize discipline-specific, peer-reviewed sources related to your research topic."
 keywords: "library instruction, search strategies, citation chaining"
