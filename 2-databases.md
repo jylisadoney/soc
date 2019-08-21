@@ -7,11 +7,10 @@ Databases can be helpful places to search as they include peer-reviewed articles
 
 ## Select a library database
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
-* Click on `Databases` below the search box
-* Click on `View More Results`
+* Click on `Articles` below the search box
 * On the new page:
-  * **Option 1**: Scroll to, or select the first letter of, the database you are interested in
-  * **Option 2**: Click on the `All Subjects` box and select a subject/discipline
+  * **Option 1**: Click on `Databases by Title`
+  * **Option 2**: Click on a `Databases by Subject` link
     * Example: Sociology/Criminology
 * Then, click on the database you are interested in
   * Example: Sociological Abstracts
