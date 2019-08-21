@@ -27,7 +27,7 @@ food insecurity | food security, hunger, starvation
 Latah County | Idaho, United States, rural
 
 <br>-->
-# [Search syntax](#search-syntax)
+# Search syntax
 
 Use the **search strategies** below to combine your basic concepts in journal/database search boxes.
 
