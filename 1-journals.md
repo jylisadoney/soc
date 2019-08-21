@@ -37,7 +37,7 @@ Once we find a list of disciplinary journals and identify one you are interested
 * Complete the 'Find a journal' steps
 * On the new page, type your `keywords` into the search box
   * Example: vaccines AND opinions AND trust
-    * Visit the <a href="https://jylisadoney.github.io/soc/1-syntax.html#search-syntax">Search Syntax page</a> to learn more about `AND`
+    * Visit the <a href="https://jylisadoney.github.io/soc/4-syntax.html#search-syntax">Search Syntax page</a> to learn more about `AND`
 * If prompted, select the option to search in `This Journal` only
 * Click on search or hit enter on your keyboard
 * Browse the results 
