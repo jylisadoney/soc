@@ -2,7 +2,7 @@
 title: Syntax
 nav: true
 ---
-# [Research Question to Basic Concepts](#basic-concepts)
+<!--# [Research Question to Basic Concepts](#basic-concepts)
 
 Before searching for information related to our research question, you first need to identify your topic's `basic concepts` and their `synonyms or other keywords`.
 
@@ -26,10 +26,8 @@ families | parents with children, households
 food insecurity | food security, hunger, starvation
 Latah County | Idaho, United States, rural
 
-<br>
+<br>-->
 # [Search Syntax](#search-syntax)
-
-Once you identify your topic's basic concepts and synonyms, you can **start searching** in a journal or library database.
 
 Use the **search strategies** below to combine your basic concepts in journal/database search boxes.
 
