@@ -10,12 +10,11 @@ The following step-by-step instructions will help you [identify](#identify-disci
 
 ## Identify disciplinary journals
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
-* Click on `Databases` below the search box
+* Click on `Databases A-Z` below the search box
 * In the drop-down box, scroll to and select `Journal Citation Reports`
 * Click on go
-* On the new page, click on `Browse by Category`
-* On the new page, click on `Journals by Rank`
-* Click on `Select Categories`
+* On the new page, click on `Browse by Journal`
+* On the new page, click on `Select Categories`
 * Scroll down to and check the box for a specific discipline
   * Example: Sociology
 * Scroll down and click on `Submit` at the bottom of the page
@@ -51,7 +50,7 @@ If we don't have the full-text of an article you need, request it for **free** v
 Once you select a journal, you can use a library database to confirm that it is peer-reviewed.
 
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
-* Click on `Databases` below the search box
+* Click on `Databases A-Z` below the search box
 * In the drop-down box, scroll to and select `Ulrichsweb Global Serials Directory`
 * On the new page, type the `journal name` into the search box
   * Example: Sociology Compass
