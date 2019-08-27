@@ -22,7 +22,7 @@ The following step-by-step instructions will help you [identify](#identify-disci
 You can now see a ranked list of journals within a specific discipline. Journals in this list are ranked based on the number of times their articles are cited by other articles.
 
 ## Confirm if a journal is peer-reviewed
-Once you select a journal, you can visit its website to confirm that it is peer-reviewed.
+Once you select a journal, you can visit its website to determine whether it is peer-reviewed.
 
 * Within `Journal Citation Reports`, click on the title of a journal
   * Example: *Sociology Compass*
