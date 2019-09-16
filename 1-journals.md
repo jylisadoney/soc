@@ -34,16 +34,6 @@ Once you select a journal, you can visit its website to determine whether it is 
 * Visit the journal's website
 * Review content such as `Aims and Scope`, `About`, `Author Guidelines`, etc. to determine whether the journal is peer-reviewed
   * Journals may also use terms such as `refereed`, `single-blind review`, `double-blind review`, etc. as synonyms for `peer-review`
-<!--
-* Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
-* Click on `Databases A-Z` below the search box
-* In the drop-down box, scroll to and select `Ulrichsweb Global Serials Directory`
-* On the new page, type the `journal name` into the search box
-  * Example: Sociology Compass
-* Click on the magnifying glass
-* On the new page, identify the correct journal
-* If the journal has a 'referee jersey' icon next to its name, it is a peer-reviewed journal
--->
 
 ## Find a journal in the library catalog
 Once we find a list of disciplinary journals and identify one you are interested in, we need to see if the University of Idaho Library has full-text access to articles.
