@@ -3,7 +3,7 @@ title: Home
 ---
 # Sociology library sessions
 
-Jekyll repository for "SOC library sessions" at the University of Idaho Library.
+Jekyll repository for "Sociology library sessions" at the University of Idaho Library.
 
 <link to repository>
 
@@ -12,6 +12,7 @@ This website will teach you how to:
 - create and modify your search strategies
 - use citation chaining backwards and forwards through a research topic
 
+You can also download a <a href="{{ '/images/SynthesisMatrix_Template.xlsx' | relative_url }}" target="_blank">Synthesis Matrix template</a>.
 <a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about this website or its content?** 
 
 <div class="toc" markdown="1">
