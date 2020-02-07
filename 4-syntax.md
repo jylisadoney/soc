@@ -47,7 +47,7 @@ Operator | Description | Example
 AND | Each source contains all keywords | income AND hunger<br><br>Google Scholar: income hunger
 "Quotation marks" | Each source contains the exact phrase | "food insecurity"
 OR | Each source contains at least one keyword | "food insecurity" OR "food security"
-(Parentheses) | Groups and combines keywords | ("food insecurity" OR "food security") AND income
+(Parentheses) | Group and combine keywords | ("food insecurity" OR "food security") AND income
 NOT | Each source does not contain the specified keywords | "food insecurity" NOT seniors
 Asterisk (*) | Each source includes variations of the keyword | famil*<br><br>Finds: family, families, etc.
 
