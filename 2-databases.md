@@ -7,12 +7,12 @@ Databases can be helpful places to search as they include peer-reviewed articles
 
 ## Select a library database
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
-* Click on `Articles` below the search box
+* Click `Articles` below the search box
 * On the new page:
-  * **Option 1**: Click on `Databases by Title`
-  * **Option 2**: Click on a `Databases by Subject` link
+  * **Option 1**: Click `Databases by Title`
+  * **Option 2**: Click a `Databases by Subject` link
     * Example: Sociology/Criminology
-* Then, click on the database you are interested in
+* Then, click the database you are interested in
   * Example: Sociological Abstracts
 * Enter your `Vandal NetID` if prompted 
 
@@ -20,7 +20,7 @@ Databases can be helpful places to search as they include peer-reviewed articles
 * Type your keywords into the search box
   * Example: vaccines AND opinions AND trust
     * Visit the <a href="https://jylisadoney.github.io/soc/4-syntax.html">search syntax page</a> to learn more about `AND`
-* Click on search or hit enter on your keyboard
+* Click search or hit enter on your keyboard
 
 ## Limit search results
 On the results page, you can limit your results by:
@@ -31,7 +31,7 @@ On the results page, you can limit your results by:
 
 ## Select relevant search results  
 * Browse the results
-* Click on an article you are interested in
+* Click an article you are interested in
 * Read the `Abstract/Details`
 * Make note of useful `subject headings`
   * Subject headings are the terms databases use to describe specific concepts

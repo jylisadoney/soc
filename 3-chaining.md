@@ -22,7 +22,7 @@ When using `citation chaining`, you can find historic, current, and related rese
 * Visit <a href ="https://scholar.google.com/" target="_blank">Google Scholar</a>
 * Copy/paste or type the article title into the search box
   * Example: Race and trust in the health care system
-* Click on search or the magnifying glass
+* Click search or the magnifying glass
 * On the results page, click `Cited by...`
 
 You will now see articles that cited, in their own reference lists, the initial article you searched for. 
@@ -31,23 +31,23 @@ You can even `search within these citing articles`.
 * Click to check the `Search within citing articles box`
 * Type your keyword(s) into the search box
   * Example: vaccines
-* Click on search or the magnifying glass
+* Click search or the magnifying glass
 
 You will now see articles that include specific keywords **and** cited the initial article you searched for.
 
 ## Set University of Idaho full-text links in Google Scholar
-* In Google Scholar, click on the **triple bar icon**
-* Click on `Settings`
-* Under Search Results, click on `Library links`
+* In Google Scholar, click the **triple bar icon**
+* Click `Settings`
+* Under Search Results, click `Library links`
 * Type `University of Idaho` in the search box
-* Click on search or the magnifying glass
+* Click search or the magnifying glass
 * Check the box for `University of Idaho - Univ of Idaho - Get it`
-* Click on Save
+* Click Save
 
 When you search in Google Scholar, you will now see `Univ of Idaho - Get it` links.
 
 ## Access the full-text of articles in Google Scholar
-* Click on the `Univ of Idaho - Get it` link next to the article you want
+* Click the `Univ of Idaho - Get it` link next to the article you want
 * Under `View It`, click the link that provides the access you need (current/historic articles)
   * If there are no links under `View It`, request the article for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan</a>
 * Enter your `Vandal NetID` if prompted
